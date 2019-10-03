@@ -1,12 +1,12 @@
 # Site settings
-title: A Junior Developer portfolio
+title: Portfolio for Sheila.Z
 description: Sheila Zhao
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 #url: "https://heinerom.github.io/#" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Sheila Zhao
-user_description: Self-motivated, solutions-oriented junior software developer with project experience and academic training in developing software and web applications.
+user_description: A junior software developer who loves challanges! I have a Bsc of Engineering at University of Calgary and just finished Oriented-objected Software Development(OOSD) program at SAIT. I have a diverse set of skills, rangine from PHP + HTML + CSS + Js, to .NET/ASP, and database as SQL, Oracle and Azura. 
 user_title: Software Developer
 email: sheilazhao64@gmail.com
 github_username:  heinerom
